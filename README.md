@@ -16,4 +16,4 @@ nendSDK Unityプラグインのリリースリポジトリです。
 * [sample](https://github.com/fan-ADN/nendSDK-Unity)
 
 ## License
-Copyright (C) F@N Communications, Inc.
+Copyright (C) FAN Communications, Inc.
